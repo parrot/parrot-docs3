@@ -1,0 +1,24 @@
+=head1 NAME
+
+README - Readme file for Parrot's 'parrot-docs3' documentation repository.
+
+=head1 DESCRIPTION
+
+The purpose of this README is to record the fact that this repository contains 
+the documentation for version 3.0.0 through version 3.11.0[1] of Parrot. In 
+short, this repository is, in-the-main, about maintaining a set of all of 
+Parrot's documentation on github.
+
+=head1 NOTE
+
+[1] At the present time, I<i.e.,> January 8, 2012, version of 3.11.0 of 
+the documentation is not contained in this repository; rather, it is in 
+the main, 'parrot.github.com', repository.  After the next scheduled release
+of Parrot, version 3.11.0 of the documentation will be archived in this 
+repository, and we will remove this note.
+
+=head1 COPYRIGHT
+
+Copyright (C) 2011, Parrot Foundation.
+
+=cut
